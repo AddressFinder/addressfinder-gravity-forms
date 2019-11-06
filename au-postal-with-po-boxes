@@ -2,7 +2,7 @@
 (function() {
     var widget, initAddressFinder = function() {
         widget = new AddressFinder.Widget(
-            document.getElementById('Address_ID_here'),
+            document.getElementById('ADDRESS_ID_HERE'),
             'ADDRESSFINDER_DEMO_KEY',
             'AU', {
                 "address_params": {
@@ -12,7 +12,7 @@
         );
 
         widget.on('address:select', function(fullAddress, metaData) {
-            document.getElementById('Address_ID_here').value = metaData.full_address
+            document.getElementById('ADDRESS_ID_HERE').value = metaData.full_address
 
         });
 
