@@ -6,6 +6,7 @@
             'ADDRESSFINDER_DEMO_KEY',
             'NZ', {
                 "address_params": {
+                    "post_box": "0",
                     "delivered": "1"
                 }
             }
