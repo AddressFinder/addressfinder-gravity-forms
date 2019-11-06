@@ -30,7 +30,7 @@ Expand the HTML element by clicking on it then paste the code from below into th
 ### Code Options:
 - [Australian Postal Addresses (includes PO Box addresses](https://github.com/abletech/addressfinder-gravity-forms/blob/master/au-postal-with-po-boxes)
 - [Australian Postal Addresses (excludes PO Box addresses)](https://github.com/abletech/addressfinder-gravity-forms/blob/master/au-postal-without-po-boxes)
-- [Australian Physical Addresses](
+- [Australian Physical Addresses](https://github.com/abletech/addressfinder-gravity-forms/blob/master/au-physical-addresses)
 - New Zealand Postal Addresses (includes PO Box addresses)
 - New Zealand Postal Addresses (excludes PO Box addresses)
 - New Zealand Physical Addresses
