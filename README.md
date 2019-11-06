@@ -28,9 +28,9 @@ Expand the HTML element by clicking on it then paste the code from below into th
 ![image](https://user-images.githubusercontent.com/23350144/68250686-4915bb00-0086-11ea-89db-3ee09ff284f2.png)
 
 ### Code Options:
-- [Australian Postal Addresses (includes PO Box addresses]
+- [Australian Postal Addresses (includes PO Box addresses](https://github.com/abletech/addressfinder-gravity-forms/blob/master/au-postal-with-po-boxes)
 - [Australian Postal Addresses (excludes PO Box addresses)](https://github.com/abletech/addressfinder-gravity-forms/blob/master/au-postal-without-po-boxes)
-- Australian Physical Addresses
+- [Australian Physical Addresses](
 - New Zealand Postal Addresses (includes PO Box addresses)
 - New Zealand Postal Addresses (excludes PO Box addresses)
 - New Zealand Physical Addresses
