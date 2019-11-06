@@ -1,4 +1,4 @@
-# Instructions for adding AddressFinder functionality to Gravity Forms.
+# Instructions for adding AddressFinder to Gravity Forms.
 
 AddressFinder provides an address autocomplete service which enables customers to search and select verified Australian and New Zealand addresses. 
 
