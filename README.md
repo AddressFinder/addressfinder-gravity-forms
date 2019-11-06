@@ -31,9 +31,9 @@ Expand the HTML element by clicking on it then paste the code from below into th
 - [Australian Postal Addresses (includes PO Box addresses](https://github.com/abletech/addressfinder-gravity-forms/blob/master/au-postal-with-po-boxes)
 - [Australian Postal Addresses (excludes PO Box addresses)](https://github.com/abletech/addressfinder-gravity-forms/blob/master/au-postal-without-po-boxes)
 - [Australian Physical Addresses](https://github.com/abletech/addressfinder-gravity-forms/blob/master/au-physical-addresses)
-- New Zealand Postal Addresses (includes PO Box addresses)
-- New Zealand Postal Addresses (excludes PO Box addresses)
-- New Zealand Physical Addresses
+- [New Zealand Postal Addresses (includes PO Box addresses)](https://github.com/abletech/addressfinder-gravity-forms/blob/master/nz-postal-with-po-boxes)
+- [New Zealand Postal Addresses (excludes PO Box addresses)](https://github.com/abletech/addressfinder-gravity-forms/blob/master/nz-postal-without-po-boxes)
+- [New Zealand Physical Addresses](https://github.com/abletech/addressfinder-gravity-forms/blob/master/nz-physical-addresses)
 
 ### Step 6
 Make adjustments to the code you have added so that it is connects to your form. You will need to update the address_field_id and replace 'ADDRESSFINDER_DEMO_KEY' with your AddressFinder account key.
