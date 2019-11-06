@@ -23,9 +23,17 @@ Add an HTML element by dragging an ‘HTML’ option from the Standard Fields se
 ![image](https://user-images.githubusercontent.com/23350144/68250623-27b4cf00-0086-11ea-98bf-5250bae6b1cf.png)
 
 ### Step 5
-Expand this HTML element by clicking on it. Then paste the code from below into the 'Content' section of this 'General' tab. Look through the address related options below to determine which code needs to be added to your page.
+Expand the HTML element by clicking on it then paste the code from below into the 'Content' section of this 'General' tab. The code to paste into this area needs to be chosen accorting to the type of addresses you want to collect.
 
 ![image](https://user-images.githubusercontent.com/23350144/68250686-4915bb00-0086-11ea-89db-3ee09ff284f2.png)
+
+### Code Options:
+- Australian Postal Addresses (includes PO Box addresses)
+- Australian Postal Addresses (excludes PO Box addresses)
+- Australian Physical Addresses
+- New Zealand Postal Addresses (includes PO Box addresses)
+- New Zealand Postal Addresses (excludes PO Box addresses)
+- New Zealand Physical Addresses
 
 ### Step 6
 Make adjustments to the code you have added so that it is connects to your form. You will need to update the address_field_id and replace 'ADDRESSFINDER_DEMO_KEY' with your AddressFinder account key.
