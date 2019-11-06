@@ -28,7 +28,7 @@ Expand the HTML element by clicking on it then paste the code from below into th
 ![image](https://user-images.githubusercontent.com/23350144/68250686-4915bb00-0086-11ea-89db-3ee09ff284f2.png)
 
 ### Code Options:
-- Australian Postal Addresses (includes PO Box addresses)
+- [Australian Postal Addresses (includes PO Box addresses](Github.com)
 - Australian Postal Addresses (excludes PO Box addresses)
 - Australian Physical Addresses
 - New Zealand Postal Addresses (includes PO Box addresses)
