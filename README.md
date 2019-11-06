@@ -23,7 +23,7 @@ Add an HTML element by dragging an ‘HTML’ option from the Standard Fields se
 ![image](https://user-images.githubusercontent.com/23350144/68250623-27b4cf00-0086-11ea-98bf-5250bae6b1cf.png)
 
 ### Step 5
-Expand the HTML element by clicking on it then paste the code from below into the 'Content' section of this 'General' tab. The code to paste into this area needs to be chosen accorting to the type of addresses you want to collect.
+Expand the HTML element by clicking on it then paste the code from below into the 'Content' section of this 'General' tab. The code to be pasted into this area can be copied from any of the Code Options links below according to your needs.
 
 ![image](https://user-images.githubusercontent.com/23350144/68250686-4915bb00-0086-11ea-89db-3ee09ff284f2.png)
 
@@ -36,7 +36,7 @@ Expand the HTML element by clicking on it then paste the code from below into th
 - [New Zealand Physical Addresses](https://github.com/abletech/addressfinder-gravity-forms/blob/master/nz-physical-addresses)
 
 ### Step 6
-Make adjustments to the code you have added so that it is connects to your form. You will need to update the address_field_id and replace 'ADDRESSFINDER_DEMO_KEY' with your AddressFinder account key.
+Make adjustments to the code you have just pasted into the HTML so that it is connects to your form and AddressFinder account. You will need to repace the 'ADDRESS_ID_HERE' ID with your address field's ID and 'ADDRESSFINDER_DEMO_KEY' with your AddressFinder account KEY.
 
 ### Step 7
-Test the page.
+Save then test the page.
