@@ -1,9 +1,9 @@
-# Instructions for adding AddressFinder to Gravity Forms.
+# Instructions for adding Addressfinder to Gravity Forms.
 
-AddressFinder provides an address autocomplete service which enables customers to search and select verified Australian and New Zealand addresses. 
+Addressfinder provides an address autocomplete service which enables customers to search and select verified Australian and New Zealand addresses. 
 
 ### Step 1
-Select 'Forms' in the Wordpress sidebar and create a new form. If you have an existing form you want to add AddressFinder to, skip to Step x.
+Select 'Forms' in the Wordpress sidebar and create a new form. If you have an existing form you want to add Addressfinder to, skip to Step x.
 
 ![image](https://user-images.githubusercontent.com/23350144/68250392-b412c200-0085-11ea-93d6-210fe7a9d610.png)
 
@@ -36,7 +36,7 @@ Expand the HTML element by clicking on it then paste the code from below into th
 - [New Zealand Physical Addresses](https://github.com/abletech/addressfinder-gravity-forms/blob/master/nz-physical-addresses)
 
 ### Step 6
-Make adjustments to the code you have just pasted into the HTML so that it is connects to your form and AddressFinder account. You will need to repace the 'ADDRESS_ID_HERE' ID with your address field's ID and 'ADDRESSFINDER_DEMO_KEY' with your AddressFinder account KEY.
+Make adjustments to the code you have just pasted into the HTML so that it is connects to your form and Addressfinder account. You will need to repace the 'ADDRESS_ID_HERE' ID with your address field's ID and 'ADDRESSFINDER_DEMO_KEY' with your Addressfinder account KEY.
 
 ### Step 7
 Save then test the page.
