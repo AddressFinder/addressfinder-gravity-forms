@@ -3,7 +3,7 @@
 Addressfinder provides an address autocomplete service which enables customers to search and select verified Australian and New Zealand addresses. 
 
 ### Step 1
-Select 'Forms' in the Wordpress sidebar and create a new form. If you have an existing form you want to add Addressfinder to, skip to Step x.
+Select 'Forms' in the Wordpress sidebar and create a new form. If you have an existing form you want to add Addressfinder to, skip to Step 4.
 
 ![image](https://user-images.githubusercontent.com/23350144/68250392-b412c200-0085-11ea-93d6-210fe7a9d610.png)
 
